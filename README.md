@@ -1,5 +1,5 @@
 
-## tornado实现 auth 验证
+## tornado实现简单的接口认证机制
 
 ### 安装依赖
 ```bash
